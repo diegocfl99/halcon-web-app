@@ -1,0 +1,8 @@
+Personal Reflection
+
+Durante el análisis del proyecto Halcon, comprendí la importancia de conocer las necesidades del cliente antes de comenzar a desarrollar una aplicación web. Es necesario identificar los usuarios del sistema, sus permisos y los procesos que se deben seguir para que la solución realmente ayude a mejorar las actividades de la empresa.
+
+También aprendí que los diagramas permiten organizar mejor las ideas y entender cómo se relacionan las diferentes partes del sistema. Por ejemplo, el BPMN y el Activity Diagram ayudan a representar el proceso de los pedidos, mientras que el Class Diagram y el ER Diagram permiten definir la estructura de la aplicación y su base de datos.
+
+Elegí Scrum como metodología de trabajo porque permite dividir el proyecto en etapas y desarrollar sus funcionalidades de manera organizada. Además, seleccioné MySQL porque permite almacenar y relacionar la información de los clientes, pedidos, usuarios y evidencias fotográficas.
+

@@ -1,0 +1,6 @@
+
+Metodología seleccionada: Scrum
+Para el desarrollo de la aplicación web de Halcon se seleccionó la metodología Scrum, debido a que permite dividir el proyecto en incrementos pequeños y funcionales, facilitando la planificación, desarrollo y evaluación de cada módulo.
+El sistema cuenta con diferentes roles y funcionalidades, como Sales, Purchasing, Warehouse y Route, por lo que Scrum permite organizar el trabajo en diferentes Sprints y priorizar las funcionalidades de acuerdo con las necesidades del proyecto.
+Además, esta metodología facilita la detección temprana de errores y la incorporación de mejoras durante el desarrollo. Cada Sprint puede finalizar con un incremento funcional del sistema, permitiendo validar progresivamente que la aplicación cumpla con los requerimientos establecidos por el cliente.
+

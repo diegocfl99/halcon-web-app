@@ -1,0 +1,3 @@
+Selección Base de datos: MySQL (mediante xamp)
+Para la aplicación web Halcon, se eligió MySQL como sistema para administrar la base de datos. Esta opción es adecuada para el proyecto porque permite organizar la información en tablas y relacionarlas entre sí mediante llaves primarias y foráneas.
+La aplicación necesita guardar información de los clientes, pedidos, cuentas de empleados, roles, estados de los pedidos y evidencias fotográficas. Utilizar una base de datos relacional ayudará a mantener la información organizada y evitar errores, asegurando que cada pedido esté relacionado con el cliente, estado y evidencia que le corresponden.
